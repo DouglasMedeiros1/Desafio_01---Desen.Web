@@ -1,0 +1,31 @@
+
+body{
+    border: 0px red solid;
+    max-width: 80%;
+    margin: 0px auto;
+    background-image: url('Imagens/fundo.png') ;
+    padding-top: 20px;
+}
+
+.link{
+    float: right;
+}
+
+p{
+    margin: 0px auto;
+}
+
+#img-capa{
+    padding-top: 25px;
+
+}
+
+
+
+h4{
+    text-align: center;
+}
+
+#img-fundo{
+    background-image: url('Imagens/fundo2.png');
+}
